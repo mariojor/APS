@@ -17,6 +17,7 @@
         <%
             dim nome
             dim endereco
+            dim testesupremo
             'via get QueryString
             'via post Request
             'via request.form
